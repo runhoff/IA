@@ -1,8 +1,8 @@
 ####################################################################################################
 ##
 ## Script for cleaning possibly overlapping multi-state histories according to a specified hierarchy
-## This is intended for a non-fixed individual inclusion date where individuals are continuously
-## included according to some criteria between a fixed overall inclusion- and end-date for the study.
+## using Norwegian registry data. Individual inclusion dates may be according to some specified 
+## criteria occurring between an overall start- and stop-date for the study.
 ##
 ## Input: 
 ## ## dt: a data.table with the columns: id, start, stop and state

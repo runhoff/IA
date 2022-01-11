@@ -4,8 +4,7 @@ require(data.table)
 ################################################################################
 ##
 ##  Functions for additive hazards multi-state modeling in a similar manner to
-##  mstate-package in R by Putter, de Wreede and Fiocco. Several lines of code
-##  are taken from the mstate-package.
+##  mstate-package in R by Putter, de Wreede and Fiocco.
 ## 
 ################################################################################
 
